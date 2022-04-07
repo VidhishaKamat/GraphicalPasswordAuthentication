@@ -1,1 +1,1 @@
-# GraphicalPasswordAuthentication
+# Graphical Password Authentication
